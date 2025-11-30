@@ -1,0 +1,18 @@
+# Security Policy for Yorbee (Gamified Job Platform)
+
+Contact: mailto:security@yorbee.myao
+Expires: 9999-12-31T23:59:00.000Z
+
+# 🚫 Anti-Cheat Policy
+# Yorbeeは「現実の仕事」を扱うプラットフォームです。
+# Botによる自動受注や、スキルレベルの改ざん(SQL Injection)は、
+# ゲームのBANだけでなく、法的措置の対象となります。
+
+# 🐛 Bug Bounty
+# 報酬の分配ロジックや、個人情報漏洩のバグを見つけた場合、
+# ギルド運営より報奨金（Bounty）が支払われます。
+Policy: https://yorbee.com/security/cheating-policy
+
+# ⚠️ Privacy Note
+# User skill data is encrypted.
+# (ユーザーの弱点データは暗号化されています)
