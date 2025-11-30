@@ -1,0 +1,23 @@
+User-agent: *
+
+# ✅ クエスト(求人)はGoogleに載せる
+# 冒険者を集めるために、仕事内容は検索されたい。
+Allow: /quests/
+Allow: /board/public/
+
+# ⛔️ 冒険者のステータス画面は絶対隠す
+# 「佐藤さんはINTが低い」みたいな個人情報は検索拒否。
+Disallow: /adventurers/profile/
+Disallow: /adventurers/skills/
+
+# ⛔️ 酒場(チャット)と財布はプライベート空間
+Disallow: /tavern/chat/
+Disallow: /wallet/
+Disallow: /party/
+
+# 🤖 HR系クローラー(他社求人サイトのボット)を拒否
+# データをパクられないようにする。
+User-agent: CompetitorBot
+Disallow: /
+
+Sitemap: https://yorbee.com/sitemap.xml
