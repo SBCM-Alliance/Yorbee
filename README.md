@@ -61,7 +61,7 @@ streamlit run yorbee_game.py
 
 ## 📚 Theoretical Background
 
-Yorbeeは、建設DXシステム **[G-Cart](https://github.com/your-name/G-Cart)** の「人材版」です。
+Yorbeeは、建設DXシステム **[G-Cart](https://github.com/melnus/virtual-general-constructor)** の「人材版」です。
 
 > **SBCM Human Resources Theory:**
 > 1人の人間が持つキャパシティ ($C_{single}$) が業務負荷 ($I_{job}$) を下回る場合でも、異なるスキルセットを持つ $n$ 人を集めれば、総キャパシティは負荷を上回る ($\Sigma C \ge I$)。これにより、潜在的な労働力（主婦、高齢者、副業）を市場に還流させる。
