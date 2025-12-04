@@ -56,7 +56,7 @@ cd Yorbee
 pip install -r requirements.txt
 
 # 3. アプリを起動
-streamlit run yorbee_game.py
+streamlit run app.py
 ```
 
 ## 📚 Theoretical Background
