@@ -1,6 +1,7 @@
 # Yorbee: The Gamified Skill Guild ⚔️
 ### "Job Title" is Dead. Long live "Skill Set".
 
+
 [![SBCM Economics](https://img.shields.io/badge/Theory-SBCM_HR-blue)](https://doi.org/10.5281/zenodo.17766604)
 [![Python](https://img.shields.io/badge/Built_with-Streamlit-red)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +10,6 @@
 「店長」や「営業部長」といった巨大な役職（Job Title）を解体し、個人の得意な「スキル（Skill）」をパズルのように組み合わせてチームを結成します。
 
 ---
-
 
 ## 📖 コンセプト (Concept)
 
